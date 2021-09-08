@@ -1,0 +1,52 @@
+.bgimage {
+  width:100%;
+  height: 100vh;
+  background: url('https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+}
+.bgimage h5 {
+  color:white;
+  text-shadow:2px 2px #333;
+}
+
+#blumoo-vegas {
+	position: relative;
+	overflow: hidden;
+	width:100%;
+	height: 100vh;
+	z-index: 1
+}
+
+#blumoo-vegas-inner{
+	position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 800px;
+   height: 400px;
+   margin-top: -100px; /* Half the height */
+   margin-left: -400px; /* Half the width */
+   color: #fff;
+   text-align: center;
+   text-shadow: 1px 1px 1px rgba(0,0,0,1) ;
+   transition: all 0.3s ease-in-out;
+   
+}
+
+
+#blumoo-vegas-inner h2 {
+	font-size: 7vh;
+    font-weight: 900;
+}
+
+#blumoo-vegas-inner h5 {
+	font-size: 28px;
+}
+
+
+#blumoo-vegas-inner h2 span {
+	background: rgba(12,62,95, 0.6);
+	color: #fff;
+	padding: 4px 20px;
+}

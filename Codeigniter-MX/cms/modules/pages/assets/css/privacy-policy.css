@@ -1,0 +1,48 @@
+/**
+	Blue
+	003F5D
+	00537B
+	006799 - base
+	008ED3
+	07ABFB
+	
+
+/** Losing Business **/
+
+
+#privacy-policy {
+	margin-top: 10rem;
+}
+
+.chat-with-us img {
+	max-height: 150px;
+	margin: 0;
+}
+
+.chat-with-us .h2 {
+	font-size: 2.0rem;
+    letter-spacing: -.0415rem;
+    margin: 1rem 0;
+}
+
+.did-you-know {}
+.moo-light-bg.did-you-know {
+	color: #fff;
+	background-color: rgba(7,171,251,0.75);
+}
+
+.did-you-know .fa {
+	font-size: 7rem;
+}
+
+.word-press-development .fa,
+.responsive-web-design .fa ,
+.woo-commerce .fa,
+.custom-web-application .fa {
+	font-size: 15rem;
+}
+
+.woocommerce img {
+	max-width: 300px;
+	filter: grayscale(100%);
+}

@@ -1,0 +1,31 @@
+/**
+	Blue
+	003F5D
+	00537B
+	006799 - base
+	008ED3
+	07ABFB
+	
+
+/** Affordable Perfection **/
+.affordable-perfection img {
+	max-height: 150px;
+	margin: 0;
+}
+
+.affordable-perfection .h2 {
+	font-size: 2.0rem;
+    letter-spacing: -.0415rem;
+    margin: 1rem 0;
+}
+
+.did-you-know {}
+.moo-light-bg.did-you-know {
+	color: #fff;
+	background-color: rgba(7,171,251,0.75);
+}
+
+.portfolio {}
+.portfolio img {
+	
+}
